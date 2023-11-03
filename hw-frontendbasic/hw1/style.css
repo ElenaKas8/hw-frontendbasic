@@ -1,0 +1,13 @@
+.block {
+    background-color: #34495E;
+    border-radius: 20px;
+    padding: 10px 21px;
+    color: azure;
+    margin-bottom: 10px;
+
+}
+
+.wrapper {
+    background-color: #e5dfdf;
+    padding: 40px 50px;
+}
